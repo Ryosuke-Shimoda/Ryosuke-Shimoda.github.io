@@ -236,7 +236,7 @@ footer {
 }
 
 .blog{
-  width: 95%;
+  padding: 10px;
   }
 
 @media all and (max-width: 750px) {
