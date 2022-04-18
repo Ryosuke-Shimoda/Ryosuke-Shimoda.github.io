@@ -213,7 +213,8 @@ footer {
 
 .blog{
   padding: 50px;
-  ba
+  background-color: #666;
+  color: white;
   }
 
 @media all and (max-width: 1000px) {
