@@ -49,11 +49,6 @@ a {
   background-color: #239b76;
 }
 
-.facebook {
-  background-color: #3b5998;
-  margin-right: 10px;
-}
-
 .twitter {
   background-color: #55acee;
 }
@@ -68,10 +63,6 @@ a {
 
 .note {
   background-color: #2dcdb5;
-}
-
-.ameba {
-  background-color: #2d8c3c;
 }
 
 .btn {
@@ -220,6 +211,11 @@ footer {
   clear: left;
 }
 
+.blog{
+  padding: 50px;
+  ba
+  }
+
 @media all and (max-width: 1000px) {
   .lesson {
     width: 50%;
@@ -234,10 +230,6 @@ footer {
     text-align: center;
   }
 }
-
-.blog{
-  padding: 10px;
-  }
 
 @media all and (max-width: 750px) {
   .top-wrapper h1 {
