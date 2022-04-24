@@ -1,7 +1,7 @@
 var result = window.prompt('パスワードは？');
 
 if (result=='1216'){
-  location.href="https://ryosuke07.github.io/cloud.html";
+  window.alert('VIPルームへようこそ');
   }
   
 else {
