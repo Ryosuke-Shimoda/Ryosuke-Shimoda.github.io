@@ -1,9 +1,10 @@
-var result = window.prompt('FANZAに遷移しますか？');
+var result = window.prompt('パスワードは？');
 
-if (result){
-  location.href="https://www.dmm.co.jp";
+if (result=='1216'){
+  location.href="https://ryosuke07.github.io/cloud.html";
   }
   
 else {
-  window.alert('遷移しませんでした');
+  window.alert('入室を拒否されました');
+  location.href="https://www.dmm.co.jp";
   }
