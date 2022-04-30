@@ -6,5 +6,5 @@ if (result=='1216'){
   
 else {
   window.alert('入室を拒否されました');
-  location.href="https://www.dmm.co.jp";
+  location.href="https://www.google.co.jp";
   }
