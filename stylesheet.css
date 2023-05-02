@@ -19,7 +19,6 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url("https://ryosuke07.github.io/IMG_3378.jpeg");
   background-size: cover;
   color: gray;
   text-align: center;
@@ -72,7 +71,7 @@ a {
 
 .btn {
   padding: 8px 24px;
-  color: gray;
+  color: white;
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
@@ -102,7 +101,7 @@ header {
 }
 
 .header-left {
-  color: gray;
+  color: white;
   float: left;
 }
 
@@ -114,7 +113,7 @@ header {
 .header-right a {
   line-height: 65px;
   padding: 0 25px;
-  color: gray;
+  color: white;
   display: block;
   float: left;
   transition: all 0.5s;
@@ -184,7 +183,7 @@ footer {
 .footer-right a {
   line-height: 65px;
   padding: 0 25px;
-  color: gray;
+  color: white;
   display: block;
   float: left;
   transition: all 0.5s;
