@@ -107,7 +107,7 @@ header {
 }
 
 .header-right {
-  float: right;
+  float: left;
   margin-right: -25px;
 }
 
