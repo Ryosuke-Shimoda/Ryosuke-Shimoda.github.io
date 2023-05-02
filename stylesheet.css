@@ -43,14 +43,14 @@ a {
 
 .btn-wrapper {
   text-align: center;
+  
+  color: white;
+  float: left;
+  margin-right: -25px;
 }
 
 .btn-wrapper p {
   margin-bottom: 20px;
-}
-
-.signup {
-  background-color: #239b76;
 }
 
 .instagram {
@@ -93,10 +93,6 @@ header {
   position :fixed;
   top: 0;
   z-index: 10;
-  
-  color: white;
-  float: left;
-  margin-right: -25px;
 }
 
 .logo {
@@ -150,18 +146,6 @@ footer {
 
 .footer-right a:hover {
   background-color: rgba(255,255,255,0.3);
-}
-
-.menu-icon {
-  color: gray;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  display: none;
-}
-
-.clear {
-  clear: left;
 }
 
 @media all and (max-width: 1000px) {
