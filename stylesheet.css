@@ -58,7 +58,7 @@ a {
   background-color: #e1306c;
 }
 
-.btn instagram:hover{
+.btn .instagram:hover{
   color: #e1306c;
   }
 
@@ -66,7 +66,7 @@ a {
   background-color: #c4302b;
 }
 
-.btn youtube:hover{
+.btn .youtube:hover{
   color: #c4302b;
   }
 
@@ -206,22 +206,7 @@ footer {
   clear: left;
 }
 
-.blog{
-  padding: 50px;
-  background-color: #666;
-  color: gray;
-  }
-
 @media all and (max-width: 1000px) {
-  .lesson {
-    width: 50%;
-    margin-bottom: 50px;
-  }
-
-  .lesson-wrapper {
-    height: 990px;
-  }
-
   footer {
     text-align: center;
   }
@@ -250,10 +235,6 @@ footer {
     width: 100%;
   }
 
-  .twitter {
-    margin-top: 10px;
-  }
-
   .top-wrapper {
     text-align: left;
   }
@@ -264,14 +245,6 @@ footer {
 
   .top-wrapper p {
     font-size: 14px;
-  }
-
-  .lesson {
-    width: 100%;
-  }
-
-  .lesson-wrapper {
-    height: 1700px;
   }
 
   .message-wrapper .btn {
