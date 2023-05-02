@@ -66,6 +66,10 @@ a {
   background-color: #c4302b;
 }
 
+.youtube:hover{
+  color: #c4302b;
+  }
+
 .btn {
   padding: 8px 24px;
   color: gray;
